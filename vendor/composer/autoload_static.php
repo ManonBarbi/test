@@ -6,6 +6,10 @@ namespace Composer\Autoload;
 
 class ComposerStaticInit3ce8344fac757b9bde515f72d327165c
 {
+    public static $files = array (
+        'acebdcfdd000660f01b860612ac18a07' => __DIR__ . '/../..' . '/HelloWorld.php',
+    );
+
     public static $classMap = array (
         'mageekguy\\atoum\\adapter' => __DIR__ . '/..' . '/atoum/atoum/classes/adapter.php',
         'mageekguy\\atoum\\adapter\\definition' => __DIR__ . '/..' . '/atoum/atoum/classes/adapter/definition.php',
