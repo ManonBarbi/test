@@ -1,4 +1,8 @@
 {
+    "name": "test",
+    "autoload": {
+      "files": ["HelloWorld.php"]
+    },
     "require-dev": {
         "atoum/atoum": "^3.0"
     }
